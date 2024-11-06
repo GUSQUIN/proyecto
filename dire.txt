@@ -1,0 +1,23 @@
+
+    Directory: C:\temp
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           16/9/2024    11:50                certificados
+d----            8/8/2024    15:14                hola m
+d----           6/11/2024    14:32                proyecto
+-a---            8/8/2024    14:28         178949 1.jpg
+-a---            8/8/2024    16:40         219601 certificado.ps1
+-a---            8/8/2024    14:52         249150 crearSub.ps1
+-a---            8/8/2024    16:44         737898 dni_dorso.ps1
+-a---            8/8/2024    16:42         740125 dni_frente.ps1
+-a---          30/12/2023    20:20        1641309 fotosDISK.txt
+-a---          30/12/2023    20:25        4566379 fotosOD.txt
+-a---          30/12/2023    20:09        2759915 imagenesDiscoRemo.txt
+-a---          30/12/2023    20:15        5718898 imagenesONEDRIVE.txt
+-a---           19/3/2024    10:05             37 index.html
+-a---          30/10/2024    15:07        5125284 inergram.mp4
+-a---          30/10/2024    15:06       13378172 inergram.webm
+-a---            8/8/2024    16:46         195717 partida.ps1
+-a---          28/12/2023    17:43         877568 WinFR.exe
+
